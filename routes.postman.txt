@@ -1,0 +1,4 @@
+register (POST): http://localhost:8000/api/register
+login (POST): http://localhost:8000/api/login
+user (GET): http://localhost:8000/api/user
+refresh (POST): http://localhost:8000/api/refresh
